@@ -1,0 +1,2 @@
+Los conceptos básicos para iniciar a programar, explicando cómo se estructuran las instrucciones y la lógica de un programa. Luego aborda los tipos de datos y operadores, que permiten representar información y realizar operaciones matemáticas o lógicas. Se estudian las estructuras de control condicionales, que permiten tomar decisiones dentro del código, y las estructuras de control de bucles, que repiten acciones de manera eficiente. Los videos complementan cada tema, mostrando ejemplos de programación, uso de datos y control de flujo.
+

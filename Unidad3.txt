@@ -1,0 +1,3 @@
+Los controladores de versiones, explicando su importancia para gestionar cambios en proyectos de programación. Se estudia Git, el sistema más usado, mostrando cómo permite registrar modificaciones y trabajar en equipo. Luego se presenta GitHub, la plataforma que facilita compartir repositorios en línea y colaborar de forma remota. También se revisan las instrucciones básicas de Git, como crear ramas, hacer commits y subir cambios.
+
+
